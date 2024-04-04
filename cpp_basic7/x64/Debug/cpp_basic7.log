@@ -1,4 +1,5 @@
-﻿  sample.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (cpp_basic7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  sample.cpp
   sample3-1.cpp
   Generating Code...
-  cpp_basic7.vcxproj -> G:\Projects\C++\cpp_basic\x64\Debug\cpp_basic7.exe
+  cpp_basic7.vcxproj -> G:\Projects\C++\cpp_basic\x64\Debug\cpp_basic07.exe
