@@ -2,8 +2,7 @@
 #define _CAR_H_
 
 // 自動車クラス
-class CCar
-{
+class CCar {
 public:
 	// コンストラクタ
 	CCar();

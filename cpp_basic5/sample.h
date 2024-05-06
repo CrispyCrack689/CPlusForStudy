@@ -2,8 +2,7 @@
 #define _SAMPLE_H_
 
 // クラス宣言
-class CSample
-{
+class CSample {
 public:
 	void set(int num);	// m_numに値を設定する
 	int get();			// m_numの値を取得する

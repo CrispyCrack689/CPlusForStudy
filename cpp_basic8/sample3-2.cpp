@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
 	CSample s;
 	s.setNum(5);
 	cout << s.getNum() << endl;

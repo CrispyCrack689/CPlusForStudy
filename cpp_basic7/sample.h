@@ -1,8 +1,7 @@
 ﻿#ifndef _SAMPLE_H_
 #define _SAMPLE_H_
 
-class Sample
-{
+class Sample {
 public:
 	int a;
 private:

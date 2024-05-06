@@ -1,5 +1,4 @@
-﻿class CSample
-{
+﻿class CSample {
 public:
 	void setNum(int num);
 	int getNum();

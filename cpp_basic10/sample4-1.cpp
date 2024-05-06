@@ -1,7 +1,6 @@
 ﻿#include "car.h"
 
-int main()
-{
+int main() {
 	CCar c;
 	c.supply(10);
 	c.move();

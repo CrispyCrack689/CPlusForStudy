@@ -2,8 +2,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
 	int* p = 0;
 	p = new int();		// int型の領域を動的確保
 	*p = 123;

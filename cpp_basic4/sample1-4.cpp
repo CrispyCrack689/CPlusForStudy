@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
 	string s, t;
 	t = "入力された文字列は、";
 	cout << "文字列を入力:";

@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
 	Sample s;
 	s.a = 1;
 	//s.b = 2;	// エラー: Sample::b は private です

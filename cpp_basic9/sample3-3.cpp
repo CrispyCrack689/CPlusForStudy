@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
 	string s;
 	s = "This is a ";	// 最初の文字列
 	s.append("pen.");	// 文字列の追加

@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
 	CSample obj1, obj2;			// CSampleのインスタンスを複数生成
 
 	obj1.set(1);				// obj1のsetメソッド呼び出し

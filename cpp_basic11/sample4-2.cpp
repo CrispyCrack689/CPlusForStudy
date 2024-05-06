@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
+int main() {
 	CCar* pC = 0;
 	pC = new CCar();		// インスタンス生成
 	pC->supply(10);		// 燃料補給
