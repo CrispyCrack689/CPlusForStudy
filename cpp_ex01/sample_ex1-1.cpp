@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+void ref(int &);
+void print(int);
+
+int main() {
+    // ®”‚Ì’l‚ğ‘ã“ü
+    int n = 5;
+    print(n);
+    // QÆ“n‚µ
+    ref(n);
+    print(n);
+
+    return 0;
+}
+
+void ref(int &n) {
+    n = 1;
+}
+
+void print(int n) {
+    cout << "n = " << n << endl;
+}
